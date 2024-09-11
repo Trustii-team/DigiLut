@@ -1,0 +1,17 @@
+numpy
+matplotlib 
+pandas
+networkx
+scikit-learn
+scipy
+seaborn
+tifffile
+openpyxl
+imblearn
+scikit-image
+datasci
+telebot
+pytorch_lightning
+prismtoolbox==0.0.2
+jupyter
+torchvision

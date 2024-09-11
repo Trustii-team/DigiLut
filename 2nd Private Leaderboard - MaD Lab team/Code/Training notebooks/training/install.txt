@@ -1,0 +1,3 @@
+conda create --name digilut_madlab_env python=3.9.19
+conda activate digilut_madlab_env
+pip install -r requirements.txt
